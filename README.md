@@ -1,6 +1,6 @@
 # Pizza topping 
 
-<img src="https://github.com/Sheethal-Raghavendra/sheethal07/blob/main/Images/Pizza Inmage.jpeg" width=50% height=50%>
+<img src="https://github.com/Sheethal-Raghavendra/sheethal07/blob/main/Images/Pizza inmage.jpeg" width=50% height=50%>
 
 1. Pepperoni
 2. Mushrooms
